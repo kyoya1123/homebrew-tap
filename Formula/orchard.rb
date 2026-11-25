@@ -1,8 +1,8 @@
 class Orchard < Formula
   desc "Build and run iOS apps from git worktrees with xcodebuild"
   homepage "https://github.com/kyoya1123/Orchard"
-  url "https://github.com/kyoya1123/Orchard/archive/refs/tags/v0.1.7.tar.gz"
-  sha256 "4e3a1f8c2b166e478a7fae098f27b6b57809cea9468ca62ae13c600cf64d3eb0"
+  url "https://github.com/kyoya1123/Orchard/archive/refs/tags/v0.1.8.tar.gz"
+  sha256 "7194f8a205aefe83cd3537f6c5f82f350abf77c4a21f3d1e1235a7e2b93bb912"
   license "MIT"
   head "https://github.com/kyoya1123/Orchard.git", branch: "main"
 
